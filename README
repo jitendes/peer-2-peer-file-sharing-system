@@ -1,0 +1,64 @@
+/*********************************************************************************************
+		CSCI 551 - Computer Communications
+		Fall 2010
+		Final Project #2
+		University of Southern California
+*********************************************************************************************/
+
+NAME: 		Jitender Singh
+USC-ID: 	5441-3990-45
+nunki:  	jitendes
+email: 		jitendes[at]/.usc/.edu
+
+*********************************************************************************************/
+
+List of main files:
+------------------------
+1. sv_node is main file, global.h
+2. process.cpp
+3. cmdThread.cpp
+4. eventDispatcher.cpp
+4. README
+5. iniparser.h
+6.iniparserClass.cpp
+7.iniparserClass.h
+ and many more files on store.cpp
+
+functions names are self explanatory
+fell free you ask us via email, if you need explaination
+Steps to be followed to compile/run above files:
+-------------------------------------------------
+
+
+
+
+Any design decisions you made that is not in the spec.
+-------------------------------------------------------
+None
+
+Known bugs (not required, but it's nice to have so the grader knows what to expect).
+------------------------------------------------------------------------------------
+None
+
+Any deviation from the spec (e.g., minor variation on "make" may not lost points, minor variation on others may lose points).
+-------------------------------------------------------------------------------------------------------------------------------
+None
+
+ REFERENCES 
+------------------------
+
+tokenize function:
+
+
+removing quotes:
+http://www.cplusplus.com/forum/beginner/14373/
+
+copyfile function: 
+http://www.dreamincode.net/code/snippet2306.htm
+
+sockdataAvailable(int sock) function:
+http://developerweb.net/viewtopic.php?id=3003
+
+
+document the format of the index files stored in the homedir
+http://advancedcppwithexamples.blogspot.com/2009/04/example-of-c-multimap.html
